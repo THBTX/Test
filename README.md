@@ -5,14 +5,15 @@
 [Version Control](./ChangeLog.md) – Current release information and program changes.
 
 
-Heads-up | Auto-pilot   |Brake Controls
------------- | ------------- | ------------- 
+| HUD (Heads-Up) | Auto-Pilot | Brakes|
+| --- | --- | --- |
 Artificial horizon | Automatic braking | Brake-hold
 Altimeter | Auto-pilot to saved locations | Brake landings (brake force > construct mass)
 Pitch | Inter-planetary transit routes |Coast landings (brake force < construct mass)
-Roll | Orbital insertion | :white_small_square:
-Yaw | Transit-to-orbit | :white_small_square:
-Vertical speed indicator | :white_small_square:  | :white_small_square:
+Roll | Orbital insertion | 
+Yaw | Transit-to-orbit | 
+Vertical speed indicator |   | 
+
 
 :white_small_square:
 
