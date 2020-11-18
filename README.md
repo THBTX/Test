@@ -1,8 +1,20 @@
-#DU-Orbital-Hud
+# DU-Orbital-Hud
 A general purpose HUD for Dual Universe
 [Discord Suport:](https://discord.gg/sRaqzmS)
 
 [Version Control](./ChangeLog.md) – Current release information and program changes.
+
+
+ Features |Included  
+------------ | ------------- 
+Heads-up display | Artificial horizon
+. | Artificial horizon
+. | Altimeter
+. | Pitch
+. | Roll
+. | Yaw
+. | Vertical speed indicator
+. | and more...
 
 Included Features:
 Heads-up display including - 
