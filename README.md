@@ -16,7 +16,6 @@ Yaw | Transit-to-orbit |
 Vertical speed indicator |   | 
 
 
-:white_small_square:
 | Additional Features | 
 | --- |
 | Emergency Warp if target too close or has lock on you |
