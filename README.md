@@ -5,6 +5,8 @@
 
 [Change Log](./ChangeLog.md) – Current release information and program changes.
 
+[Go to Credits](#credits)
+# Features List
 
 | HUD (Heads-Up) | Auto-Pilot | Brakes|
 | --- | --- | --- |
@@ -37,7 +39,7 @@ Blah blah blah
 
 
 
-### Credits
+# Credits
 
 Rezoix and his HUD - https://github.com/Rezoix/DU-hud
 
