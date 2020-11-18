@@ -39,6 +39,9 @@ Free-look mode
 User Parameters for customizing to your HUD and your flight preference to your ship capabilities.
 Save parameters between HUD version updates
 
+[Table of Contents](#table-of-contents)
+
+
 
 Blah blah blah
 
