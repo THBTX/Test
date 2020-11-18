@@ -1,11 +1,17 @@
+
+
+
+
 # DU-Orbital-Hud
 ## A general purpose HUD for Dual Universe
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 
+##### Table of Contents  
+[Features List](#features-list)  
 [Change Log](./ChangeLog.md) – Current release information and program changes.
+[Credits](#credits)
 
-[Go to Credits](#credits)
 # Features List
 
 | HUD (Heads-Up) | Auto-Pilot | Brakes|
