@@ -1,6 +1,6 @@
 # DU-Orbital-Hud
-A general purpose HUD for Dual Universe
-## [Discord Suport:](https://discord.gg/sRaqzmS)
+## A general purpose HUD for Dual Universe
+###### For assistance, see our [Discord Suport.](https://discord.gg/sRaqzmS)
 
 [Version Control](./ChangeLog.md) – Current release information and program changes.
 
