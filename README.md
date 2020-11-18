@@ -7,6 +7,7 @@
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 
+#TOC
 | __Table of Contents__ |
 |------|
 | [Features List](#features-list) |
@@ -39,7 +40,7 @@ Free-look mode
 User Parameters for customizing to your HUD and your flight preference to your ship capabilities.
 Save parameters between HUD version updates
 
-[Table of Contents](#table-of-contents)
+[Table of Contents](#toc)
 
 
 
@@ -57,4 +58,4 @@ JayleBreak and his orbital maths/atlas - https://gitlab.com/JayleBreak/dualunive
 
 Archeageo and his work on the HUD
 
-[Table of Contents](#table-of-contents)
+[Table of Contents](#toc)
