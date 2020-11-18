@@ -39,7 +39,7 @@ Blah blah blah
 
 
 
-# Credits
+### Credits
 
 Rezoix and his HUD - https://github.com/Rezoix/DU-hud
 
