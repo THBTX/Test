@@ -8,13 +8,13 @@ A general purpose HUD for Dual Universe
  Features |Included  
 ------------ | ------------- 
 Heads-up display | Artificial horizon
-. | Artificial horizon
-. | Altimeter
-. | Pitch
-. | Roll
-. | Yaw
-. | Vertical speed indicator
-. | and more...
+:white_small_square: | Artificial horizon
+:white_small_square: | Altimeter
+:white_small_square: | Pitch
+:white_small_square: | Roll
+:white_small_square: | Yaw
+:white_small_square: | Vertical speed indicator
+:white_small_square: | and more...
 
 Included Features:
 Heads-up display including - 
