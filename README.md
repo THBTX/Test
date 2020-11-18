@@ -5,17 +5,16 @@ A general purpose HUD for Dual Universe
 [Version Control](./ChangeLog.md) – Current release information and program changes.
 
 
- Features |Included  
+Heads-up | Auto-pilot  
 ------------ | ------------- 
-Heads-up display | Artificial horizon
-:white_small_square: | Artificial horizon
-:white_small_square: | Altimeter
-:white_small_square: | Pitch
-:white_small_square: | Roll
-:white_small_square: | Yaw
-:white_small_square: | Vertical speed indicator
-:white_small_square: | and more...
+Artificial horizon | Automatic braking
+Altimeter | Auto-pilot to saved locations
+Pitch | Inter-planetary transit routes
+Roll | Orbital insertion
+Yaw | Transit-to-orbit
+Vertical speed indicator | and more...
 
+:white_small_square:
 Included Features:
 Heads-up display including - 
 	Artificial horizon
