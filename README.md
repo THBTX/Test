@@ -1,5 +1,6 @@
 # DU-Orbital-Hud
 ## A general purpose HUD for Dual Universe
+#### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord Suport.](https://discord.gg/sRaqzmS)
 
 [Version Control](./ChangeLog.md) – Current release information and program changes.
@@ -16,6 +17,20 @@ Vertical speed indicator |   |
 
 
 :white_small_square:
+| Additional Features | 
+| --- |
+| Emergency Warp if target too close or has lock on you |
+|Parachute Re-Entry or Glide Re-Entry|
+|Trip odometers and information display.|
+Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.
+altitude hold, auto-landing and takeoff functionality
+Orbital alignment and maneuver assistants
+Radar and periscope for situational awareness
+Ability to hide the built-in display windows to keep your flight aesthetic clean and focused
+Free-look mode
+User Parameters for customizing to your HUD and your flight preference to your ship capabilities.
+Save parameters between HUD version updates
+
 
 Blah blah blah
 
