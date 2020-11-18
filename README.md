@@ -7,7 +7,7 @@
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 
-#TOC
+# TOC
 | __Table of Contents__ |
 |------|
 | [Features List](#features-list) |
