@@ -5,32 +5,17 @@
 [Version Control](./ChangeLog.md) – Current release information and program changes.
 
 
-Heads-up | Auto-pilot  
------------- | ------------- 
-Artificial horizon | Automatic braking
-Altimeter | Auto-pilot to saved locations
-Pitch | Inter-planetary transit routes
-Roll | Orbital insertion
-Yaw | Transit-to-orbit
-Vertical speed indicator | and more...
+Heads-up | Auto-pilot   |Brake Controls
+------------ | ------------- | ------------- 
+Artificial horizon | Automatic braking | Brake-hold
+Altimeter | Auto-pilot to saved locations | Brake landings (auto selected if brake force > construct mass)
+Pitch | Inter-planetary transit routes |Coast landings (auto selected if brake force < construct mass)
+Roll | Orbital insertion | :white_small_square:
+Yaw | Transit-to-orbit | :white_small_square:
+Vertical speed indicator | :white_small_square:  | :white_small_square:
 
 :white_small_square:
-Included Features:
-Heads-up display including - 
-	Artificial horizon
-	Altimeter
-	Pitch
-	Roll
-	Yaw
-	Vertical speed indicator
-	and more...
-Auto-pilot including - 
-	Automatic braking
-	Auto-pilot to saved locations
-	Inter-planetary transit routes
-	Orbital insertion
-	Transit-to-orbit
-	and more…
+
 Brake controls including:
 	Brake-hold
 	Brake or Coast landings (auto selected based on brake force vs. construct mass)
