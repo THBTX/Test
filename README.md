@@ -8,8 +8,9 @@
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 
 ##### Table of Contents  
-[Features List](#features-list)  
-[Change Log](./ChangeLog.md) – Current release information and program changes.
+[Features List](#features-list) 
+[Change Log](./ChangeLog.md)
+
 [Credits](#credits)
 
 # Features List
