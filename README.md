@@ -8,8 +8,8 @@
 Heads-up | Auto-pilot   |Brake Controls
 ------------ | ------------- | ------------- 
 Artificial horizon | Automatic braking | Brake-hold
-Altimeter | Auto-pilot to saved locations | Brake landings (auto selected if brake force > construct mass)
-Pitch | Inter-planetary transit routes |Coast landings (auto selected if brake force < construct mass)
+Altimeter | Auto-pilot to saved locations | Brake landings (brake force > construct mass)
+Pitch | Inter-planetary transit routes |Coast landings (brake force < construct mass)
 Roll | Orbital insertion | :white_small_square:
 Yaw | Transit-to-orbit | :white_small_square:
 Vertical speed indicator | :white_small_square:  | :white_small_square:
