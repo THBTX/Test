@@ -7,8 +7,8 @@
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 
-# TOC
-| __Table of Contents__ |
+# Table of Contents
+| |
 |------|
 | [Features List](#features-list) |
 | [Change Log](./ChangeLog.md) |
@@ -40,7 +40,7 @@ Free-look mode
 User Parameters for customizing to your HUD and your flight preference to your ship capabilities.
 Save parameters between HUD version updates
 
-[Table of Contents](#toc)
+[Table of Contents](#table-of-contents)
 
 
 
