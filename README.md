@@ -146,31 +146,31 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
 
     -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
     * useTheseSettings = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
-    <b>freeLookToggle</b> = true -- export: Set to false for vanilla DU free look behavior.
+    * freeLookToggle = true -- export: Set to false for vanilla DU free look behavior.
     * BrakeToggleDefault = true -- export: Whether your brake toggle is on/off by default. Can be adjusted in the button menu.  Of is vanilla DU brakes.
-    RemoteFreeze = false -- export: Whether or not to freeze you when using a remote controller.  Breaks some things, only freeze on surfboards
-    RemoteHud = false -- export: Whether you want full HUD while in remote mode, experimental, might not look right.
-    userControlScheme = "virtual joystick" -- export: Set to "virtual joystick", "mouse", or "keyboard"
-    brightHud = false -- export: Enable to prevent hud dimming when in freelook.
-    PrimaryR = 130 -- export: Primary HUD color
-    PrimaryG = 224 -- export: Primary HUD color
-    PrimaryB = 255 -- export: Primary HUD color
-    centerX = 960 -- export: X postion of Artifical Horizon (KSP Navball), (use 1920x1080, it will scale) Default 960. Use centerX=700 and centerY=880 for lower left placement.
-    centerY = 540 -- export: Y postion of Artifical Horizon (KSP Navball), (use 1920x1080, it will scale) Default 540. Use centerX=700 and centerY=880 for lower left placement. 
-    throtPosX = 1300 -- export: X position of Throttle Indicator, default 1300 to put it to right of default AH centerX parameter.
-    throtPosY = 540 -- export: Y position of Throttle indicator, default is 540 to place it centered on default AH centerY parameter.
-    vSpdMeterX = 1525  -- export: X postion of Vertical Speed Meter.  Default 1525 (use 1920x1080, it will scale)
-    vSpdMeterY = 250 -- export: Y postion of Vertical Speed Meter.  Default 250 (use 1920x1080, it will scale)
-    altMeterX = 550  -- export: X postion of Altimeter.  Default 550 (use 1920x1080, it will scale)
-    altMeterY = 540 -- export: Y postion of Altimeter.  Default 500 (use 1920x1080, it will scale)
-    fuelX = 100 -- export: X position of fuel tanks, default is 100 for left side, set both fuelX and fuelY to 0 to hide fuel
-    fuelY = 350 -- export: Y position of fuel tanks, default 350 for left side, set both fuelX and fuelY to 0 to hide fuel
-    circleRad = 400 -- export: The size of the artifical horizon circle, recommended minimum 100, maximum 400.  Looks different > 200. Set to 0 to remove.
-    DeadZone = 50 -- export: Number of pixels of deadzone at the center of the screen
-    showHud = true -- export: Uncheck to hide the HUD and only use autopilot features via ALT+# keys.
-    hideHudOnToggleWidgets = true -- export: Uncheck to keep showing HUD when you toggle on the widgets via ALT+3.
-    ShiftShowsRemoteButtons = true -- export: Whether or not pressing Shift in remote controller mode shows you the buttons (otherwise no access to them)
-    StallAngle = 35 --export: Determines how much Autopilot is allowed to make you yaw/pitch in atmosphere.  Also gives a stall warning when not autopilot.  (default 35, higher = more tolerance for yaw/pitch/roll)
+    * RemoteFreeze = false -- export: Whether or not to freeze you when using a remote controller.  Breaks some things, only freeze on surfboards
+    * RemoteHud = false -- export: Whether you want full HUD while in remote mode, experimental, might not look right.
+    * userControlScheme = "virtual joystick" -- export: Set to "virtual joystick", "mouse", or "keyboard"
+    * brightHud = false -- export: Enable to prevent hud dimming when in freelook.
+    * PrimaryR = 130 -- export: Primary HUD color
+    * PrimaryG = 224 -- export: Primary HUD color
+    * PrimaryB = 255 -- export: Primary HUD color
+    * centerX = 960 -- export: X postion of Artifical Horizon (KSP Navball), (use 1920x1080, it will scale) Default 960. Use centerX=700 and centerY=880 for lower left placement.
+    * centerY = 540 -- export: Y postion of Artifical Horizon (KSP Navball), (use 1920x1080, it will scale) Default 540. Use centerX=700 and centerY=880 for lower left placement. 
+    * throtPosX = 1300 -- export: X position of Throttle Indicator, default 1300 to put it to right of default AH centerX parameter.
+    * throtPosY = 540 -- export: Y position of Throttle indicator, default is 540 to place it centered on default AH centerY parameter.
+    * vSpdMeterX = 1525  -- export: X postion of Vertical Speed Meter.  Default 1525 (use 1920x1080, it will scale)
+    * vSpdMeterY = 250 -- export: Y postion of Vertical Speed Meter.  Default 250 (use 1920x1080, it will scale)
+    * altMeterX = 550  -- export: X postion of Altimeter.  Default 550 (use 1920x1080, it will scale)
+    * altMeterY = 540 -- export: Y postion of Altimeter.  Default 500 (use 1920x1080, it will scale)
+    * fuelX = 100 -- export: X position of fuel tanks, default is 100 for left side, set both fuelX and fuelY to 0 to hide fuel
+    * fuelY = 350 -- export: Y position of fuel tanks, default 350 for left side, set both fuelX and fuelY to 0 to hide fuel
+    * circleRad = 400 -- export: The size of the artifical horizon circle, recommended minimum 100, maximum 400.  Looks different > 200. Set to 0 to remove.
+    * DeadZone = 50 -- export: Number of pixels of deadzone at the center of the screen
+    * showHud = true -- export: Uncheck to hide the HUD and only use autopilot features via ALT+# keys.
+    * hideHudOnToggleWidgets = true -- export: Uncheck to keep showing HUD when you toggle on the widgets via ALT+3.
+    * ShiftShowsRemoteButtons = true -- export: Whether or not pressing Shift in remote controller mode shows you the buttons (otherwise no access to them)
+    * StallAngle = 35 --export: Determines how much Autopilot is allowed to make you yaw/pitch in atmosphere.  Also gives a stall warning when not autopilot.  (default 35, higher = more tolerance for yaw/pitch/roll)
     speedChangeLarge = 5 -- export: The speed change that occurs when you tap speed up/down, default is 5 (25% throttle change). 
     speedChangeSmall = 1 -- export: the speed change that occurs while you hold speed up/down, default is 1 (5% throttle change).
     brakeLandingRate = 30 -- export: Max loss of altitude speed in m/s when doing a brake landing, default 30.  This is to prevent "bouncing" as hover/boosters catch you.  Do not use negative number.
