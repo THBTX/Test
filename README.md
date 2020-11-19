@@ -76,12 +76,13 @@ Vertical speed indicator |   |
 [Return to Table of Contents](#table-of-contents)
 <!--Basic install instructions / point them towards real install instructions-->
 # Installation
+
+|This section is broken down into three parts.|
 | --- |
-|### This section is broken down into three parts.|
-|##### :black_small_square: 1) Pre-installation notes.|
-|##### :black_small_square: 2) Instructions to locate the release (which also contains install instructions).|
-|##### :black_small_square: 3) Post-installation notes.|
-|##### :black_small_square: Please read this section in its entirety before proceeding with the installation.|
+|1) Pre-installation notes.|
+|2) Instructions to locate the release (which also contains install instructions).|
+|3) Post-installation notes.|
+|Please read this section in its entirety before proceeding with the installation.|
 
 ##### 1) Pre-installation Notes:
 
@@ -208,6 +209,7 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
 
 <!--These links do not work properly in my test environment.  Will need to be edited once it is "live".-->
 # Examples and Tutorials
+### Note: The videos below may become out of date.
 #### https://www.youtube.com/watch?v=jQSkI0OcATU&feature=emb_logo - Demonstration of Use and Features
 https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_1.png
 #### This HUD uses on-screen buttons, and so needs to be able to use your mouse. The only way to keep DU from trying to use your mouse for input is to set the Control Scheme to Keyboard. You can then right click the seat, Advanced -> Edit LUA Parameters and find the checkboxes to choose which control scheme you would actually like to use.
