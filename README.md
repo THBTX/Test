@@ -78,10 +78,10 @@ Vertical speed indicator |   |
 # Installation
 
 ### This section is broken down into three parts.
-#### Pre-installation notes.
-#### Instructions to locate the release (which also contains install instructions).
-#### Post-installation notes.
-#### Please read this section in its entirety before proceeding with the installation.
+##### :black_small_square: Pre-installation notes.
+##### :black_small_square: Instructions to locate the release (which also contains install instructions).
+##### :black_small_square: Post-installation notes.
+##### :black_small_square: Please read this section in its entirety before proceeding with the installation.
 
 ##### Pre-installation Notes:
 
