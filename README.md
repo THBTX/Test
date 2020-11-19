@@ -14,6 +14,7 @@
 | [Change Log](./ChangeLog.md) |
 |[Warnings](#warnings)
 |[Installation](#installation)|
+|[Usage / Hotkey Reference])(#Usage)
 | [Credits](#credits) |
 
 # Features List
@@ -68,7 +69,27 @@ Vertical speed indicator |   |
 
 [Return to Table of Contents](#table-of-contents)
 
-##### 
+# Usage
+#### The HUD makes use of on-screen buttons and keyboard controls. An overview followed by more detailed destriptions is below:
+
+| Item | Key(s) | Brief Description|
+| --- | --- | --- |
+|UI Overlay|Hold SHIFT|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
+|Toggle autopilot targets |Hold SHIFT, press R/T (speedup/speeddown)|Cycles through between autopilot targets.|
+|Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
+|Autopilot Destination|Option 1 and Option 2, ALT-1 and ALT-2 or SHIFT-R and SHIFT-T)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
+|Toggle HUD|Option 3, or ALT-3|Toggles the primary hud display HUD on/off.|
+|Autopilot|Option 4, or ALT-4|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
+
+AUTOPILOT DESTINATION (Option 1 and Option 2, ALT-1 and ALT-2) - Cycle between destination planets for the autopilot. You may also use SHIFT-R and SHIFT-T, as described above.
+TOGGLE HUD (Option 3, ALT-3) - Toggles the primary hud display HUD on/off
+AUTOPILOT (Option 4, ALT-4) - Engages the autopilot if a destination is set and you are in space.
+TURN & BURN (Option 5, ALT-5) - Will use the main engines in addition to retro-rockets to perform braking when necessary.
+ALTITUDE HOLD (Option 6, ALT-6) - Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up). Disable
+SAVE/CLEAR SETTINGS (Option 7, ALT-7) - Save or clear the currently saved configuration settings.
+FOLLOW MODE (Option 8, ALT-8) - Engage follow mode if you are using Remote Control
+ANTIGRAVITY GENERATOR - Engaged either by button or ALT-G (unless remapped). Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.
+
 
 
 Blah blah blah
