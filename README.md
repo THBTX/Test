@@ -43,7 +43,6 @@ Vertical speed indicator |   |
 |Atmospheric Package - Auto-Takeoff, Auto-Land, Altitude Hold, and for Remote Controllers, Follow Mode|
 |Fuel Tanks - These are no longer automatically slotted to seat. You still get fuel readouts under the minimap. If you want the standard fuel widget, you will need to link the fuel tank(s) to the seat one time and then run the autoconfig.|
 |AutoPilot - Use Alt+4 when you have a target selected with the Interplanetary Helper, and you are in space with clear line of sight to the target. The script will align to the optimal vector to place you in a 1SU orbit from the target, accelerate, cut engines when appropriate, and brake until orbit is achieved.|
-
 |Parachute Re-Entry or Glide Re-Entry|
 |Trip odometers and information display.|
 |Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.|
