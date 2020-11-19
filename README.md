@@ -77,11 +77,11 @@ Vertical speed indicator |   |
 <!--Basic install instructions / point them towards real install instructions-->
 # Installation
 
-## This section is broken down into three parts.
-* Pre-installation notes.
-* Instructions to locate the release (which also contains install instructions).
-* Post-installation notes.
-### Please read this section in its entirety before proceeding with the installation.
+### This section is broken down into three parts.
+#### Pre-installation notes.
+#### Instructions to locate the release (which also contains install instructions).
+#### Post-installation notes.
+#### Please read this section in its entirety before proceeding with the installation.
 
 ##### Pre-installation Notes:
 
