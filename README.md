@@ -49,7 +49,6 @@ Save parameters between HUD version updates
 
 | Step |Details  |
 | --- | --- |
-
 | 1 |Scroll down the the Assets and click on ButtonHUD.conf, this should trigger a download for this file.|
 | 2 |Save the file to %ProgramData%\Dual Universe\Game\data\lua\autoconf\custom (or equivalent directory if you did not do default install), the filename does not matter (as long as it's still .conf)|
 | 3 |In-game, right click your seat and go to Advanced -> Update custom autoconf list - If you get a YAML error, you did not follow the above directions correctly.|
