@@ -1,13 +1,13 @@
 
 
 
-
+<!--Intro information-->
 # DU-Orbital-Hud
 ## A general purpose HUD for Dual Universe
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
 ###### Donations are accepted! We have a Donation Station in Sanctuary District 3 and more to come or you can always contact us and do a VR trade. We do not spend any time mining or building so our funds to test features are limited.
-
+<!--TOC-->
 # Table of Contents
 | |
 |------|
@@ -21,7 +21,7 @@
 |[Examples and Tutorials](#examples-and-tutorials)
 [No Autopilot Version](#no-autopilot-version)
 | [Credits](#credits) |
-
+<!--List of features both shorlist and expanded details-->
 # Features List
 
 | HUD (Heads-Up) | Autopilot | Brakes|
@@ -59,7 +59,7 @@ Vertical speed indicator |   |
 |Save parameters between HUD version updates (requires databank).|
 
 [Return to Table of Contents](#table-of-contents)
-
+<!--Warnings and disclaimers-->
 # Warnings
 
 ##### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP. Read and heed the warnings below!
@@ -70,7 +70,7 @@ Vertical speed indicator |   |
 ##### :warning: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. Alt+Space and/or Alt-C may be used to adjust hover altitude as needed.
 
 [Return to Table of Contents](#table-of-contents)
-
+<!--Basic install instructions / point them towards real install instructions-->
 # Installation
 
 ##### Pre-installation Notes:
@@ -86,7 +86,7 @@ Vertical speed indicator |   |
 ##### :black_small_square: This HUD uses on-screen buttons, and so needs to be able to use your mouse. The only way to keep DU from trying to use your mouse for input is to set the Control Scheme to Keyboard. You can then right click the seat, Advanced -> Edit LUA Parameters and find the checkboxes to choose which control scheme you would actually like to use.
 
 [Return to Table of Contents](#table-of-contents)
-
+<!--Table so user can quickly find keys to use-->
 # Usage
 #### The HUD makes use of on-screen buttons and keyboard controls. An overview followed by more detailed destriptions is below:
 
@@ -103,7 +103,7 @@ Vertical speed indicator |   |
 |Save / Clear Databank Settings|Option 7, or ALT-7|Save or clear the currently saved configuration settings.|
 |Follow Me|Option 8, or ALT-8|Engage follow mode if you are using Remote Control.|
 |Anti-gravity Generator|ALT-G (default mapping) or <br/>HUD button|Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.|
-
+<!--Messy Messy details. This needs to be cleaned up.-->
 | Item | Detailed Description|
 | --- | --- |
 |UI Overlay|Hold __SHIFT__ to show the UI overlay with buttons. Mouse over a button and let go of SHIFT to select it. While holding SHIFT, press R/T (speedup/speeddown) to cycle between autopilot targets.|
@@ -119,14 +119,14 @@ Vertical speed indicator |   |
 |Radar|Radar indicates below minimap number of targets or if it is jammed (atmo in space or space in atmo). The radar widget only pops up if targets are detected. The periscope widget only pops up if you click a target and successfully identify it. All widgets close automagically.|
 
 [Return to Table of Contents](#table-of-contents)
-
+<!--This should go somewhere else, I'm not sure where yet.-->
 #### Variable Persistance
 As mentioned briefly above, your custom variables are saved between reloading configurations if you attach a databank to the ship (and use Alt+7 to save them). However, all variables in the program are saved in the databank when you exit the seat. This means it will be exactly as you left it - if you were landed when you got out, it won't jump off the ground when you get it.
 
 This also means that when using autopilot, you can relatively easily move between a seat and Remote Controller; it will be down for a short time while you swap, but everything is saved and it will pick up where it left off.|
 
 [Return to Table of Contents](#table-of-contents)
-
+<!--Does this really need to be in the readme, or some other file? Not sure how often a user would need this information.-->
 # Customization
 The following LUA parameters were added
 Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
@@ -194,9 +194,7 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
     
 [Return to Table of Contents](#table-of-contents)
 
-<!--Blah blah blah-->
-
-
+<!--These links do not work properly in my test environment.  Will need to be edited once it is "live".-->
 # Examples and Tutorials
 #### https://www.youtube.com/watch?v=jQSkI0OcATU&feature=emb_logo - Demonstration of Use and Features
 https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_1.png
