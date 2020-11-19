@@ -14,7 +14,7 @@
 | [Change Log](./ChangeLog.md) |
 |[Warnings](#warnings)
 |[Installation](#installation)|
-|[Usage / Hotkey Reference])(#Usage)
+|[Usage / Hotkey Reference](#Usage)
 | [Credits](#credits) |
 
 # Features List
