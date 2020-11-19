@@ -12,6 +12,7 @@
 |------|
 | [Features List](#features-list) |
 | [Change Log](./ChangeLog.md) |
+|Installation|
 | [Credits](#credits) |
 
 # Features List
@@ -40,7 +41,7 @@ Vertical speed indicator |   |
 |User Parameters for customizing to your HUD and your flight preference to your ship capabilities.|
 |Save parameters between HUD version updates (requires databank).|
 
-[Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
 
 
 # Installation
@@ -53,6 +54,8 @@ Vertical speed indicator |   |
 ##### :black_small_square: Fuel tanks - If _not_ manually connected provide a rough estimate of fuel levels. If manually connected, more accurate readings are provided and a non-HUD widget is updated.
 
 ## On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
+
+[Return to Table of Contents](#table-of-contents)
 
 ##### 
 
@@ -71,4 +74,5 @@ JayleBreak and his orbital maths/atlas - https://gitlab.com/JayleBreak/dualunive
 
 Archeageo and his work on the HUD
 
-[Table of Contents](#table-of-contents)
+[Return to Table of Contents](#table-of-contents)
+
