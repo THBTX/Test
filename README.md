@@ -100,7 +100,6 @@ Vertical speed indicator |   |
 |Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
 |Autopilot Destination / Destination Select|__Option 1__ and __Option 2__, <br/>__ALT-1__ and __ALT-2__ or <br/>__SHIFT-R__ and __SHIFT-T__)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|__Option 3__, or __ALT-3__|Toggles the primary hud display HUD on/off.|
-
 |Autopilot|__Option 4__, or __ALT-4__|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
 |Lock Pitch|__Option 5__, or __ALT-5__|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
 |Altitude Hold|__Option 6__, or __ALT-6__|Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up).|
