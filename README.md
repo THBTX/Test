@@ -15,6 +15,8 @@
 |[Warnings](#warnings)
 |[Installation](#installation)|
 |[Usage / Hotkey Reference](#Usage)
+|[Variable Persistance](#variable-persistance)
+|[Customization])(#customization)
 | [Credits](#credits) |
 
 # Features List
@@ -103,11 +105,19 @@ Vertical speed indicator |   |
 |Toggle Gyro|__ALT-9__ to engage Toggle Gyro. If a gyro is installed on your ship, this will change your ships perceived orientation from Core to Gyro. This is used to allow you to control flight based on gyro orientation and not core orientation. Auto-Brake is not on the UI this version; it is unreliable because it is unable to align your trajectory, and tends to over-brake if it's not perfectly aligned.|
 |Radar|Radar indicates below minimap number of targets or if it is jammed (atmo in space or space in atmo). The radar widget only pops up if targets are detected. The periscope widget only pops up if you click a target and successfully identify it. All widgets close automagically.|
 
+[Return to Table of Contents](#table-of-contents)
 
-#### Persistence
+#### Variable Persistance
 As mentioned briefly above, your custom variables are saved between reloading configurations if you attach a databank to the ship (and use Alt+7 to save them). However, all variables in the program are saved in the databank when you exit the seat. This means it will be exactly as you left it - if you were landed when you got out, it won't jump off the ground when you get it.
 
 This also means that when using autopilot, you can relatively easily move between a seat and Remote Controller; it will be down for a short time while you swap, but everything is saved and it will pick up where it left off.|
+
+[Return to Table of Contents](#table-of-contents)
+
+Customization
+The following LUA parameters were added
+
+Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
 
 [Return to Table of Contents](#table-of-contents)
 
