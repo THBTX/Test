@@ -89,17 +89,6 @@ Vertical speed indicator |   |
 
 [Return to Table of Contents](#table-of-contents)
 
-AUTOPILOT DESTINATION (Option 1 and Option 2, ALT-1 and ALT-2) - Cycle between destination planets for the autopilot. You may also use SHIFT-R and SHIFT-T, as described above.
-TOGGLE HUD (Option 3, ALT-3) - Toggles the primary hud display HUD on/off
-AUTOPILOT (Option 4, ALT-4) - Engages the autopilot if a destination is set and you are in space.
-TURN & BURN (Option 5, ALT-5) - Will use the main engines in addition to retro-rockets to perform braking when necessary.
-ALTITUDE HOLD (Option 6, ALT-6) - Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up). Disable
-SAVE/CLEAR SETTINGS (Option 7, ALT-7) - Save or clear the currently saved configuration settings.
-FOLLOW MODE (Option 8, ALT-8) - Engage follow mode if you are using Remote Control
-ANTIGRAVITY GENERATOR - Engaged either by button or ALT-G (unless remapped). Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.
-
-
-
 Blah blah blah
 
 
