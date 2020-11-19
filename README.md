@@ -120,7 +120,7 @@ Vertical speed indicator |   |
 
 [Return to Table of Contents](#table-of-contents)
 <!--This should go somewhere else, I'm not sure where yet.-->
-#### Variable Persistence
+## Variable Persistence
 As mentioned briefly above, your custom variables are saved between reloading configurations if you attach a databank to the ship (and use Alt+7 to save them). However, all variables in the program are saved in the databank when you exit the seat. This means it will be exactly as you left it - if you were landed when you got out, it won't jump off the ground when you get it.
 
 This also means that when using autopilot, you can relatively easily move between a seat and Remote Controller; it will be down for a short time while you swap, but everything is saved and it will pick up where it left off.|
