@@ -6,6 +6,7 @@
 ## A general purpose HUD for Dual Universe
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
+###### Donations are accepted! We have a Donation Station in Sanctuary District 3 and more to come or you can always contact us and do a VR trade. We do not spend any time mining or building so our funds to test features are limited.
 
 # Table of Contents
 | |
@@ -17,6 +18,7 @@
 |[Usage / Hotkey Reference](#Usage)
 |[Variable Persistance](#variable-persistance)
 |[Customization](#customization)
+|[Examples and Tutorials](#examples-and-tutorials)
 | [Credits](#credits) |
 
 # Features List
@@ -195,8 +197,8 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
 Blah blah blah
 
 
-
-
+# Examples and Tutorials
+#### https://www.youtube.com/watch?v=jQSkI0OcATU&feature=emb_logo - Demonstration of Use and Features
 
 ### Credits
 
