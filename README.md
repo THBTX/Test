@@ -16,7 +16,7 @@
 |[Installation](#installation)|
 |[Usage / Hotkey Reference](#Usage)
 |[Variable Persistance](#variable-persistance)
-|[Customization])(#customization)
+|[Customization](#customization)
 | [Credits](#credits) |
 
 # Features List
