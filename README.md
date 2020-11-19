@@ -45,11 +45,12 @@ Vertical speed indicator |   |
 
 # Installation
 
-#### Note: Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
+##### Note: Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
 
-### On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
-### Doors / forcefields, if manually connected to the seat, will close / retract when you enter (sit), and open / extend when you exit (stand). Ensure they are closed / retracted before connecting to the seat.
-###
+#### On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
+####
+#### Doors / forcefields - If manually connected to the seat, will close / retract when you enter (sit), and open / extend when you exit (stand). Ensure they are closed / retracted before connecting to the seat.
+#### Button - If manually connected to the seat, will be pressed 
 
 Blah blah blah
 
