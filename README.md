@@ -19,6 +19,7 @@
 |[Variable Persistance](#variable-persistance)
 |[Customization](#customization)
 |[Examples and Tutorials](#examples-and-tutorials)
+[No autopilot version](#no-autopilot-version)
 | [Credits](#credits) |
 
 # Features List
@@ -191,7 +192,6 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
     fuelTankHandlingRocket = 0 -- export: For accurate estimates, set this to the fuel tank handling level of the person who placed the element. Ignored for slotted tanks.
     apTickRate = 0.0166667 -- export: Set the Tick Rate for your HUD.  0.016667 is effectively 60 fps and the default value. 0.03333333 is 30 fps.  The bigger the number the less often the autopilot and hud updates but may help peformance on slower machings.
     
-
 [Return to Table of Contents](#table-of-contents)
 
 Blah blah blah
@@ -204,6 +204,12 @@ https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_1.png
 https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_2.png
 #### The usual hotkeys apply, but it should be easier to use the new button system. We will be converting this to work with screens and a Remote Controller once the screen flicker bug is fixed. For now, many options are missing from the buttons since Remote Controllers must use the hotkeys
 
+[Return to Table of Contents](#table-of-contents)
+
+# No Autopilot Version
+#### No Autopilot features version available at https://github.com/Archaegeo/DU-Orbital-HUD-NO-AP
+
+[Return to Table of Contents](#table-of-contents)
 
 ### Credits
 
