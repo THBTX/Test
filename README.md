@@ -33,11 +33,22 @@ Vertical speed indicator |   |
 
 | Additional Features | 
 | --- |
+|Brake indicator / toggle. Brake is now a toggle, and is on by default when entering the seat. There is an onscreen text indicator to show you when the brake is on. You can set brake to work like default with an Edit LUA Parameter setting.|
+|Interplanetary Helper - Use Alt+1 and Alt+2 or SHIFT-R/SHIFT-T to cycle through target planets. Shows distance, travel time (including acceleration, travel, and braking - absolute total), brake time (current and max). Note that currently, Brake Time is inaccurate if you're inside atmosphere. Once you're in space, it will properly read the space brakes and give the correct values. Shows max mass for your ship on planet at sea level based on brakes. Note: If going to a planet with atmo, you must get the max mass reading while in atmo, and same if going to planet with no atmo.|
+|Auto-Brake - Use Alt+9 when you have a target selected with the Interplanetary Helper, and it will toggle Auto-Brake. The script will automatically engage the brake when within the max braking distance for that planet. This does not guarantee that you will not hit the planet - even with Auto-Brake, do not aim directly at the planet. It targets an end speed of 0, though you will generally have a much higher end speed, so has some leeway. It will continue braking until stable orbit is achieved, if possible from the trajectory.|
+|Dodgin's Don't Die Rocket Governor - Set your speed with cruise control and press B to have your rocket engines fire up to that speed and no faster|
+|Auto-Land on Gear Down - Putting down your landing gear sets your hover height to 0, raising it sets it to max. Entering a vehicle with gear down sets the height to 0, entering a vehicle with the gear up sets it to max|
+|Door/Ramp Automation - Automatically closes doors/ramps when entering, and opens them when exiting. Requires you to link these to the seat once, and it will remember and relink them each time you configure it afterward. No renaming required.|
+|(ButtonHUD) Buttons and custom controls - Custom implementations of virtual joystick and mouse controls, allowing you to use virtual joystick without that disgusting giant circle on your screen. Buttons to use many of the features.|
+|Atmospheric Package - Auto-Takeoff, Auto-Land, Altitude Hold, and for Remote Controllers, Follow Mode|
+|Fuel Tanks - These are no longer automatically slotted to seat. You still get fuel readouts under the minimap. If you want the standard fuel widget, you will need to link the fuel tank(s) to the seat one time and then run the autoconfig.|
+|AutoPilot - Use Alt+4 when you have a target selected with the Interplanetary Helper, and you are in space with clear line of sight to the target. The script will align to the optimal vector to place you in a 1SU orbit from the target, accelerate, cut engines when appropriate, and brake until orbit is achieved.|
+
 |Parachute Re-Entry or Glide Re-Entry|
 |Trip odometers and information display.|
 |Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.|
 |Altitude hold, pitch hold, auto-landing and takeoff functionality.|
-|Orbital alignment and maneuver assistants.|
+|Orbital alignment and maneuver assistants and Orbital information widget which shows apoapsis, periapsis, apogee, perigee, eccentricity for the nearest planet, using these libraries: https://gitlab.com/JayleBreak/dualuniverse/-/tree/master/DUflightfiles/autoconf/custom |
 |Radar and periscope for situational awareness.|
 |Emergency Warp if target too close or has lock on you.|
 |Ability to hide the built-in display windows to keep your flight aesthetic clean and focused.|
