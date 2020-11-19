@@ -81,6 +81,8 @@ Vertical speed indicator |   |
 |Toggle HUD|Option 3, or ALT-3|Toggles the primary hud display HUD on/off.|
 |Autopilot|Option 4, or ALT-4|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
 
+[Return to Table of Contents](#table-of-contents)
+
 AUTOPILOT DESTINATION (Option 1 and Option 2, ALT-1 and ALT-2) - Cycle between destination planets for the autopilot. You may also use SHIFT-R and SHIFT-T, as described above.
 TOGGLE HUD (Option 3, ALT-3) - Toggles the primary hud display HUD on/off
 AUTOPILOT (Option 4, ALT-4) - Engages the autopilot if a destination is set and you are in space.
