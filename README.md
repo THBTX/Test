@@ -111,7 +111,6 @@ Vertical speed indicator |   |
 |Autopilot Destination / Destination Select|__Option 1__ and __Option 2__, <br/>__ALT-1__ and __ALT-2__ or <br/>__SHIFT-R__ and __SHIFT-T__)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|__Option 3__, or __ALT-3__|Toggles the primary hud display HUD on/off.|
 |Autopilot|__Option 4__, or __ALT-4__|Ship will tilt up at preset max angle (30 by default) and fly to 100km then engage autopilot to selected planet. Once it arrives it will establish orbit and align prograde. If saved location chosen, it will glide entry in and then autopilot to location. NOTE: It does not check to see if anything is in front of you on ground (like normal) nor if your target planet is behind current planet even 100km in space. DO NOT USE if your ship cannot power out of atmosphere at 30 deg with 100% engines. USE WITH CAUTION FIRST TIME. Tested Alioth to Sanct and Sanct to Alioth repeatedly.|
-|Stall Warning|If your alignment drops below StallAngle (35 by default) - EVERY SHIP WILL BE DIFFERENT|
 |Lock Pitch|__Option 5__, or __ALT-5__|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
 |Altitude Hold|__Option 6__, or __ALT-6__|Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up).|
 |Save / Clear Databank Settings|__Option 7__, or __ALT-7__|Save or clear the currently saved configuration settings.|
