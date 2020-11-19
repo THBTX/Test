@@ -117,7 +117,8 @@ This also means that when using autopilot, you can relatively easily move betwee
 # Customization
 The following LUA parameters were added
 Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
-    ```-- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
+    ```
+        -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
     useTheseSettings = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
     freeLookToggle = true -- export: Set to false for vanilla DU free look behavior.
     BrakeToggleDefault = true -- export: Whether your brake toggle is on/off by default. Can be adjusted in the button menu.  Of is vanilla DU brakes.
