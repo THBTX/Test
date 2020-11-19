@@ -37,15 +37,15 @@ Vertical speed indicator |   |
 | Feature Detail / Additional Features | 
 | --- |
 |Brake indicator / toggle. Brake is now a toggle, and is on by default when entering the seat. There is an onscreen text indicator to show you when the brake is on. You can set brake to work like default with an Edit LUA Parameter setting.|
-|Interplanetary Helper - Use __Alt 1__ and __Alt 2__ or __SHIFT__ __R__ / __SHIFT__ __T__ to cycle through target planets. Shows distance, travel time (including acceleration, travel, and braking - absolute total), brake time (current and max). Note that currently, Brake Time is inaccurate if you're inside atmosphere. Once you're in space, it will properly read the space brakes and give the correct values. Shows max mass for your ship on planet at sea level based on brakes. Note: If going to a planet with atmosphere, you must get the max mass reading while in atmosphere, and same if going to planet with no atmosphere.|
-|Auto-Brake - Use __Alt 9__ when you have a target selected with the Interplanetary Helper, and it will toggle Auto-Brake. The script will automatically engage the brake when within the max braking distance for that planet. This does not guarantee that you will not hit the planet - even with Auto-Brake, do not aim directly at the planet. It targets an end speed of 0, though you will generally have a much higher end speed, so has some leeway. It will continue braking until stable orbit is achieved, if possible from the trajectory.|
+|Interplanetary Helper - Use __Alt-1__ and __Alt-2__ or __SHIFT-R__ / __SHIFT-T__ to cycle through target planets. Shows distance, travel time (including acceleration, travel, and braking - absolute total), brake time (current and max). Note that currently, Brake Time is inaccurate if you're inside atmosphere. Once you're in space, it will properly read the space brakes and give the correct values. Shows max mass for your ship on planet at sea level based on brakes. Note: If going to a planet with atmosphere, you must get the max mass reading while in atmosphere, and same if going to planet with no atmosphere.|
+|Auto-Brake - Use __Alt-9__ when you have a target selected with the Interplanetary Helper, and it will toggle Auto-Brake. The script will automatically engage the brake when within the max braking distance for that planet. This does not guarantee that you will not hit the planet - even with Auto-Brake, do not aim directly at the planet. It targets an end speed of 0, though you will generally have a much higher end speed, so has some leeway. It will continue braking until stable orbit is achieved, if possible from the trajectory.|
 |Dodgin's Don't Die Rocket Governor - Set your speed with cruise control and press __B__ to have your rocket engines fire up to that speed and no faster|
 |Auto-Land on Gear Down - Putting down your landing gear sets your hover height to 0, raising it sets it to max. Entering a vehicle with gear down sets the height to 0, entering a vehicle with the gear up sets it to max|
 |Door/Ramp Automation - Automatically closes doors/ramps when entering, and opens them when exiting. Requires you to link these to the seat once, and it will remember and relink them each time you configure it afterward. No renaming required.|
 |(ButtonHUD) Buttons and custom controls - Custom implementations of virtual joystick and mouse controls, allowing you to use virtual joystick without that disgusting giant circle on your screen. Buttons to use many of the features.|
 |Atmospheric Package - Auto-Takeoff, Auto-Land, Altitude Hold, and for Remote Controllers, Follow Mode|
 |Fuel Tanks - These are no longer automatically slotted to seat. You still get fuel readouts under the minimap. If you want the standard fuel widget, you will need to link the fuel tank(s) to the seat one time and then run the autoconfig.|
-|AutoPilot - Use __Alt__ __4__ when you have a target selected with the Interplanetary Helper, and you are in space with clear line of sight to the target. The script will align to the optimal vector to place you in a 1SU orbit from the target, accelerate, cut engines when appropriate, and brake until orbit is achieved.|
+|AutoPilot - Use __Alt-4__ when you have a target selected with the Interplanetary Helper, and you are in space with clear line of sight to the target. The script will align to the optimal vector to place you in a 1SU orbit from the target, accelerate, cut engines when appropriate, and brake until orbit is achieved.|
 |Parachute Re-Entry or Glide Re-Entry|
 |Trip odometers and information display.|
 |Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.|
@@ -67,7 +67,7 @@ Vertical speed indicator |   |
 ##### :warning: Auto-Land - Use with supervision. Will only engage if brakes > mass. Uses brakes and hovers / vertical engines to lower you to a safe landing. 
 ##### :warning: Autopilot - Not suitable for trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
 ##### :warning: Autopilot to Saved Location - Accurate withing roughly 15m of saved and selected location assuming a brake landing is available. If Coast Landing is displayed, you will need to resume control upon arrival at your destination.
-##### :warning: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. Alt+Space and/or Alt-C may be used to adjust hover altitude as needed.
+##### :warning: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. __Alt-Space__ and/or __Alt-C_ may be used to adjust hover altitude as needed.
 
 [Return to Table of Contents](#table-of-contents)
 <!--Basic install instructions / point them towards real install instructions-->
@@ -92,12 +92,12 @@ Vertical speed indicator |   |
 
 | Item | Key(s) | Brief Description|
 | --- | --- | --- |
-|UI Overlay|Hold SHIFT|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
-|Toggle autopilot targets |Hold SHIFT, press R/T (speedup/speeddown)|Cycles through between autopilot targets.|
+|UI Overlay|Hold __SHIFT__|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
+|Toggle autopilot targets |Hold __SHIFT__, press __R__ or __T__ (speedup/speeddown)|Cycles through between autopilot targets.|
 |Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
-|Autopilot Destination|Option 1 and Option 2, <br/>ALT-1 and ALT-2 or <br/>SHIFT-R and SHIFT-T)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
-|Toggle HUD|Option 3, or ALT-3|Toggles the primary hud display HUD on/off.|
-|Autopilot|Option 4, or ALT-4|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
+|Autopilot Destination|__Option 1__ and __Option 2__, <br/>__ALT-1__ and __ALT-2__ or <br/>__SHIFT-R__ and __SHIFT-T__)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
+|Toggle HUD|__Option 3__, or __ALT-3__|Toggles the primary hud display HUD on/off.|
+|Autopilot|__Option 4__, or __ALT-4__|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
 |Lock Pitch|Option 5, or ALT-5|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
 |Altitude Hold|Option 6, or ALT-6|Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up).|
 |Save / Clear Databank Settings|Option 7, or ALT-7|Save or clear the currently saved configuration settings.|
