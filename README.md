@@ -117,6 +117,7 @@ This also means that when using autopilot, you can relatively easily move betwee
 # Customization
 The following LUA parameters were added
 Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
+
     ```
         -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
     useTheseSettings = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
@@ -178,6 +179,7 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
     fuelTankHandlingSpace = 0 -- export: For accurate estimates, set this to the fuel tank handling level of the person who placed the element. Ignored for slotted tanks.
     fuelTankHandlingRocket = 0 -- export: For accurate estimates, set this to the fuel tank handling level of the person who placed the element. Ignored for slotted tanks.
     apTickRate = 0.0166667 -- export: Set the Tick Rate for your HUD.  0.016667 is effectively 60 fps and the default value. 0.03333333 is 30 fps.  The bigger the number the less often the autopilot and hud updates but may help peformance on slower machings.
+    
 ```
 [Return to Table of Contents](#table-of-contents)
 
