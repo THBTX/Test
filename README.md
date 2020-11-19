@@ -46,7 +46,13 @@ Vertical speed indicator |   |
 |Atmospheric Package - Auto-Takeoff, Auto-Land, Altitude Hold, and for Remote Controllers, Follow Mode|
 |Fuel Tanks - These are no longer automatically slotted to seat. You still get fuel readouts under the minimap. If you want the standard fuel widget, you will need to link the fuel tank(s) to the seat one time and then run the autoconfig.|
 |AutoPilot - Use __Alt-4__ when you have a target selected with the Interplanetary Helper, and you are in space with clear line of sight to the target. The script will align to the optimal vector to place you in a 1SU orbit from the target, accelerate, cut engines when appropriate, and brake until orbit is achieved.|
-|Parachute Re-Entry or Glide Re-Entry|
+|Glide Re-Entry - Recommend Before Activate: Align ship prograde and slow to 2000km/hr and be within 20km.
+Once activated: Ship will angle down to -30 degrees and accelerate(slow) to Re-Entry speed (1050km/hr default).
+Once the ship reaches Re-Entry Altitiude (2500m by default) it will attempt to level off into altitude hold at that height
+If glide re-entry done as a part of saved location autopilot, the ship will then begin alignment and navigation to save point.|
+|Parachute Re-Entry - Recommend before Activate: Be within 20-30km of planet.  Be at a stop or less than 3000km/hr.
+Once Activated:  Ship will angle down to -80 degrees and accelerate to 1050km/hr (re-entry speed). 
+When atmosphere reaches 0.02, brake landing will activate.|
 |Trip odometers and information display.|
 |Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.|
 |Altitude hold, pitch hold, auto-landing and takeoff functionality.|
