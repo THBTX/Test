@@ -67,7 +67,7 @@ Vertical speed indicator |   |
 ##### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP. Read and heed the warnings below!
 
 ##### :warning: Auto-Land - Use with supervision. Will only engage if brakes > mass. Uses brakes and hovers / vertical engines to lower you to a safe landing. 
-##### :warning: Autopilot - Not suitable for interplanetay trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
+##### :warning: Autopilot (Space) - Not suitable for interplanetay trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
 ##### :warning: Autopilot to Saved Location - Accurate within roughly 15m of saved and selected location assuming a brake landing is available. If Coast Landing is displayed, you will need to resume control upon arrival at your destination.
 ##### :warning: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. __Alt-Space__ and/or __Alt-C__ may be used to adjust hover altitude as needed.
 
