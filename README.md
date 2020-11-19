@@ -199,6 +199,11 @@ Blah blah blah
 
 # Examples and Tutorials
 #### https://www.youtube.com/watch?v=jQSkI0OcATU&feature=emb_logo - Demonstration of Use and Features
+https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_1.png
+#### This HUD uses on-screen buttons, and so needs to be able to use your mouse. The only way to keep DU from trying to use your mouse for input is to set the Control Scheme to Keyboard. You can then right click the seat, Advanced -> Edit LUA Parameters and find the checkboxes to choose which control scheme you would actually like to use.
+https://github.com/Dimencia/DU-Orbital-Hud/blob/master/ButtonHUD_example_2.png
+#### The usual hotkeys apply, but it should be easier to use the new button system. We will be converting this to work with screens and a Remote Controller once the screen flicker bug is fixed. For now, many options are missing from the buttons since Remote Controllers must use the hotkeys
+
 
 ### Credits
 
