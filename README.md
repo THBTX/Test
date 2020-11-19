@@ -44,7 +44,7 @@ Vertical speed indicator |   |
 
 [Return to Table of Contents](#table-of-contents)
 
-# :warning: Warnings
+# Warnings :warning: 
 ##### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP. Read and heed the warnings below!
 
 ##### :small_orange_diamond: Auto-Land - Use with supervision. Will only engage if brakes > mass. Uses brakes and hovers / vertical engines to lower you to a safe landing. 
