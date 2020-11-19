@@ -96,7 +96,8 @@ Vertical speed indicator |   |
 | --- | --- | --- |
 |UI Overlay|Hold __SHIFT__|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
 |Toggle autopilot targets |Hold __SHIFT__, press __R__ or __T__ (speedup/speeddown)|Cycles through between autopilot targets.|
-|Save Location|Selecting the __Save Position__ mouseover| Will save the current location in the databank (if installed). This location may be selected by the autopilot option to automatically fly to the destination.  It will _not_ monitor for impeeding structures or ships. Monitor during use.||Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
+|Save Location|Selecting the __Save Position__ mouseover| Will save the current location in the databank (if installed). This location may be selected by the autopilot option to automatically fly to the destination.  It will _not_ monitor for impeeding structures or ships. Monitor during use.|
+|Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
 |Autopilot Destination / Destination Select|__Option 1__ and __Option 2__, <br/>__ALT-1__ and __ALT-2__ or <br/>__SHIFT-R__ and __SHIFT-T__)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|__Option 3__, or __ALT-3__|Toggles the primary hud display HUD on/off.|
 
