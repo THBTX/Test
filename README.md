@@ -77,7 +77,7 @@ Vertical speed indicator |   |
 |UI Overlay|Hold SHIFT|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
 |Toggle autopilot targets |Hold SHIFT, press R/T (speedup/speeddown)|Cycles through between autopilot targets.|
 |Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
-|Autopilot Destination|Option 1 and Option 2, ALT-1 and ALT-2 or SHIFT-R and SHIFT-T)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
+|Autopilot Destination|Option 1 and Option 2, <br/>ALT-1 and ALT-2 or SHIFT-R and SHIFT-T)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|Option 3, or ALT-3|Toggles the primary hud display HUD on/off.|
 |Autopilot|Option 4, or ALT-4|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
 |Lock Pitch|Option 5, or ALT-5|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
