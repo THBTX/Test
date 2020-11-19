@@ -83,8 +83,8 @@ Vertical speed indicator |   |
 |Lock Pitch|Option 5, or ALT-5|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
 |Altitude Hold|Option 6, or ALT-6|Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up).|
 |Save / Clear Databank Settings|Option 7, or ALT-7|Save or clear the currently saved configuration settings.|
-|Follw Me|Option 8, or ALT-8|Engage follow mode if you are using Remote Control.|
-|Antigravity Generator|ALT-G (default mapping) or HUD button|Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.|
+|Follow Me|Option 8, or ALT-8|Engage follow mode if you are using Remote Control.|
+|Anti-gravity Generator|ALT-G (default mapping) or HUD button|Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.|
 
 
 [Return to Table of Contents](#table-of-contents)
