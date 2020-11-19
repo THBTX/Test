@@ -31,7 +31,7 @@ Yaw | Transit-to-orbit |
 Vertical speed indicator |   | 
 
 
-| Additional Features | 
+| Feature Detail / Additional Features | 
 | --- |
 |Brake indicator / toggle. Brake is now a toggle, and is on by default when entering the seat. There is an onscreen text indicator to show you when the brake is on. You can set brake to work like default with an Edit LUA Parameter setting.|
 |Interplanetary Helper - Use Alt+1 and Alt+2 or SHIFT-R/SHIFT-T to cycle through target planets. Shows distance, travel time (including acceleration, travel, and braking - absolute total), brake time (current and max). Note that currently, Brake Time is inaccurate if you're inside atmosphere. Once you're in space, it will properly read the space brakes and give the correct values. Shows max mass for your ship on planet at sea level based on brakes. Note: If going to a planet with atmo, you must get the max mass reading while in atmo, and same if going to planet with no atmo.|
