@@ -67,6 +67,9 @@ Vertical speed indicator |   |
 
 ## On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
 
+##### Post-installation Note:
+##### :black_small_square: This HUD uses on-screen buttons, and so needs to be able to use your mouse. The only way to keep DU from trying to use your mouse for input is to set the Control Scheme to Keyboard. You can then right click the seat, Advanced -> Edit LUA Parameters and find the checkboxes to choose which control scheme you would actually like to use.
+
 [Return to Table of Contents](#table-of-contents)
 
 # Usage
