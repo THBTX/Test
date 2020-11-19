@@ -28,17 +28,17 @@ Vertical speed indicator |   |
 
 | Additional Features | 
 | --- |
-| Emergency Warp if target too close or has lock on you |
 |Parachute Re-Entry or Glide Re-Entry|
 |Trip odometers and information display.|
-Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.
-altitude hold, auto-landing and takeoff functionality
-Orbital alignment and maneuver assistants
-Radar and periscope for situational awareness
-Ability to hide the built-in display windows to keep your flight aesthetic clean and focused
-Free-look mode
-User Parameters for customizing to your HUD and your flight preference to your ship capabilities.
-Save parameters between HUD version updates
+|Fuel level displays for all types of fuel tanks. Ability to unslot fuel tanks to save slots.|
+|Altitude hold, pitch hold, auto-landing and takeoff functionality.|
+|Orbital alignment and maneuver assistants.|
+|Radar and periscope for situational awareness.|
+|Emergency Warp if target too close or has lock on you.|
+|Ability to hide the built-in display windows to keep your flight aesthetic clean and focused.|
+|Free-look mode.|
+|User Parameters for customizing to your HUD and your flight preference to your ship capabilities.|
+|Save parameters between HUD version updates (requires databank).|
 
 [Table of Contents](#table-of-contents)
 
@@ -48,6 +48,8 @@ Save parameters between HUD version updates
 #### Note: Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
 
 ### On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
+### Doors / forcefields, if manually connected to the seat, will close / retract when you enter (sit), and open / extend when you exit (stand). Ensure they are closed / retracted before connecting to the seat.
+###
 
 Blah blah blah
 
