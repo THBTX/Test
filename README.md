@@ -118,8 +118,7 @@ This also means that when using autopilot, you can relatively easily move betwee
 The following LUA parameters were added
 Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
 
-    ```
-        -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
+    -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
     useTheseSettings = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
     freeLookToggle = true -- export: Set to false for vanilla DU free look behavior.
     BrakeToggleDefault = true -- export: Whether your brake toggle is on/off by default. Can be adjusted in the button menu.  Of is vanilla DU brakes.
@@ -181,6 +180,7 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
     apTickRate = 0.0166667 -- export: Set the Tick Rate for your HUD.  0.016667 is effectively 60 fps and the default value. 0.03333333 is 30 fps.  The bigger the number the less often the autopilot and hud updates but may help peformance on slower machings.
     
 ```
+
 [Return to Table of Contents](#table-of-contents)
 
 Blah blah blah
