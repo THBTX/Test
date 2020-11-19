@@ -47,10 +47,10 @@ Vertical speed indicator |   |
 
 ##### Pre-installation Notes:
 
-##### :black_circle: Button - If manually connected to the seat, will be pressed when you enter (sit), and open / extend when you exit (stand).
-##### Databank - Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
-##### Doors / Forcefields - If manually connected to the seat, will close / retract when you enter (sit), and open / extend when you exit (stand). Ensure they are closed / retracted before connecting to the seat.
-#### Fuel tanks - If _not_ manually connected provide a rough estimate of fuel levels. If manually connected, more accurate readings are provided and a non-HUD widget is updated.
+##### * Button - If manually connected to the seat, will be pressed when you enter (sit), and open / extend when you exit (stand).
+##### * Databank - Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
+##### * Doors / Forcefields - If manually connected to the seat, will close / retract when you enter (sit), and open / extend when you exit (stand). Ensure they are closed / retracted before connecting to the seat.
+#### * Fuel tanks - If _not_ manually connected provide a rough estimate of fuel levels. If manually connected, more accurate readings are provided and a non-HUD widget is updated.
 
 #### On the right side of this page, locate and click on "Releases" or select the "Release" listed as the latest.  Detailed installation instructions are located there.
 
