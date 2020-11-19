@@ -145,8 +145,8 @@ The following LUA parameters were added
 Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them all. Mouse over a name to see its purpose and potential settings.
 
     -- USER DEFINABLE GLOBAL AND LOCAL VARIABLES THAT SAVE
-    __useTheseSettings__ = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
-    _freeLookToggle_ = true -- export: Set to false for vanilla DU free look behavior.
+    * useTheseSettings = false -- export: Toggle on to use the below preferences.  Toggle off to use saved preferences.  Preferences will save regardless when exiting seat. 
+    <b>freeLookToggle</b> = true -- export: Set to false for vanilla DU free look behavior.
     * BrakeToggleDefault = true -- export: Whether your brake toggle is on/off by default. Can be adjusted in the button menu.  Of is vanilla DU brakes.
     RemoteFreeze = false -- export: Whether or not to freeze you when using a remote controller.  Breaks some things, only freeze on surfboards
     RemoteHud = false -- export: Whether you want full HUD while in remote mode, experimental, might not look right.
