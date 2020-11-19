@@ -44,11 +44,12 @@ Vertical speed indicator |   |
 [Return to Table of Contents](#table-of-contents)
 
 # :warning: Warnings
-#### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP if used carelessly. Read and heed the warnings below!
+##### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP. Read and heed the warnings below!
 
-#### :small_orange_diamond: Autopilot - Not suitable for trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
-#### :small_orange_diamond: Autopilot to Saved Location - Accurate withing roughly 15m of saved and selected location assuming a brake landing is available. If Coast Landing is displayed, you will need to resume control upon arrival at your destination.
-#### :small_orange_diamond: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. Alt+Space and/or Alt-C may be used to adjust hover altitude as needed.
+##### :small_orange_diamond: Auto-Land - Use with supervision. Will only engage if brakes > mass. Uses brakes and hovers / vertical engines to lower you to a safe landing. 
+##### :small_orange_diamond: Autopilot - Not suitable for trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
+##### :small_orange_diamond: Autopilot to Saved Location - Accurate withing roughly 15m of saved and selected location assuming a brake landing is available. If Coast Landing is displayed, you will need to resume control upon arrival at your destination.
+##### :small_orange_diamond: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. Alt+Space and/or Alt-C may be used to adjust hover altitude as needed.
 
 [Return to Table of Contents](#table-of-contents)
 
