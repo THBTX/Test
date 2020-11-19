@@ -43,6 +43,13 @@ Save parameters between HUD version updates
 [Table of Contents](#table-of-contents)
 
 
+# Installation
+
+### Note: Although not required, we recommend a databank be used.  This allows the HUD to save your user preferences and some long-term variables.  In addition, flight status is saved if you leave and return to the seat.
+
+| Step |Details  |
+| --- | --- |
+| 1 | [Save](ButtonHUD.conf) |
 
 Blah blah blah
 
