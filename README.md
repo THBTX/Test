@@ -2,7 +2,7 @@
 
 
 <!--Intro information-->
-# DU-Orbital-Hud
+# DU-Orbital-HUD
 ## A general purpose HUD for Dual Universe
 #### Cockpits are *NOT* supported.
 ###### For assistance, see our [Discord](https://discord.gg/sRaqzmS)
