@@ -16,7 +16,7 @@
 |[Warnings](#warnings)
 |[Installation](#installation)|
 |[Usage / Hotkey Reference](#Usage)
-|[Variable Persistence](#variable-persistance)
+|[Variable Persistence](#variable-persistence)
 |[Customization](#customization)
 |[Examples and Tutorials](#examples-and-tutorials)
 [No Autopilot Version](#no-autopilot-version)
