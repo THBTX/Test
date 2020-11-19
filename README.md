@@ -19,7 +19,7 @@
 |[Variable Persistance](#variable-persistance)
 |[Customization](#customization)
 |[Examples and Tutorials](#examples-and-tutorials)
-[No autopilot version](#no-autopilot-version)
+[No Autopilot Version](#no-autopilot-version)
 | [Credits](#credits) |
 
 # Features List
@@ -194,7 +194,7 @@ Right click the seat and go to _Advanced_ -> _Edit Lua Parameters_ to see them a
     
 [Return to Table of Contents](#table-of-contents)
 
-Blah blah blah
+<!--Blah blah blah-->
 
 
 # Examples and Tutorials
