@@ -57,6 +57,8 @@ Vertical speed indicator |   |
 |Free-look mode.|
 |User Parameters for customizing to your HUD and your flight preference to your ship capabilities.|
 |Save parameters between HUD version updates (requires databank).|
+|Manual Control HotKey|Pressing Stop engines (__Z__ by default) 2x within 1 second will clear ALL AP / special functions. You will be at 0 engine in throttle mode with brakes off. (normal __Z__ behavior) but all special features like altitude hold, or brake landing or anything else will turn off. (Give me manual control key) Pressing it just once is normal vanilla stop all engines. NOTE: This will NOT turn off antigrav or stop a warp in progress. It does turn off emergency warp active.|
+
 
 [Return to Table of Contents](#table-of-contents)
 <!--Warnings and disclaimers-->
