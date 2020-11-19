@@ -12,7 +12,7 @@
 |------|
 | [Features List](#features-list) |
 | [Change Log](./ChangeLog.md) |
-|Installation(#installation)|
+|[Installation](#installation)|
 | [Credits](#credits) |
 
 # Features List
