@@ -102,7 +102,9 @@ Vertical speed indicator |   |
 |Save/Clear Variables in Databank|ALT-7 to Wipe variables in a databank, you must press it a second time to confirm - Hitting ALT-7 2x will wipe all data except saved locations from databank. To wipe saved locations you must select them as a target and then use Clear button shown while holding shift. Or you can pick up the databank, remove dynamic properties, and then put it back down, this clears everything from it.|
 |Follow Mode|ALT-8 will toggle Follow Mode when using a Remote Controller. This makes your craft lift off and try to follow you wherever you go. It will not go below ground unless you dig out a big enough hole that it would naturally go down while hovering.|
 |Toggle Gyro|ALT-9 to engage Toggle Gyro. If a gyro is installed on your ship, this will change your ships perceived orientation from Core to Gyro. This is used to allow you to control flight based on gyro orientation and not core orientation. Auto-Brake is not on the UI this version; it is unreliable because it is unable to align your trajectory, and tends to over-brake if it's not perfectly aligned.|
-|Persistence|As mentioned briefly above, your custom variables are saved between reloading configurations if you attach a databank to the ship (and use Alt+7 to save them). However, all variables in the program are saved in the databank when you exit the seat. This means it will be exactly as you left it - if you were landed when you got out, it won't jump off the ground when you get it.
+
+#### Persistence
+As mentioned briefly above, your custom variables are saved between reloading configurations if you attach a databank to the ship (and use Alt+7 to save them). However, all variables in the program are saved in the databank when you exit the seat. This means it will be exactly as you left it - if you were landed when you got out, it won't jump off the ground when you get it.
 
 This also means that when using autopilot, you can relatively easily move between a seat and Remote Controller; it will be down for a short time while you swap, but everything is saved and it will pick up where it left off.|
 
