@@ -80,6 +80,12 @@ Vertical speed indicator |   |
 |Autopilot Destination|Option 1 and Option 2, ALT-1 and ALT-2 or SHIFT-R and SHIFT-T)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|Option 3, or ALT-3|Toggles the primary hud display HUD on/off.|
 |Autopilot|Option 4, or ALT-4|Engages the autopilot if a destination is set. :warning: Ensure you have LOS (line of sight) before autopiloting to another planet / body.
+|Lock Pitch|Option 5, or ALT-5|Will lock your target pitch at current pitch and attempt to maintain that pitch (this is different from Altitude Hold) Most other AP features will cancel Lock Pitch.
+|Altitude Hold|Option 6, or ALT-6|Toggle the altitude hold functionality. Set hold height with LALT-C (down) and LALT-SPACE (up).|
+|Save / Clear Databank Settings|Option 7, or ALT-7|Save or clear the currently saved configuration settings.|
+|Follw Me|Option 8, or ALT-8|Engage follow mode if you are using Remote Control.|
+|Antigravity Generator|ALT-G (default mapping) or HUD button|Once engaged, hold ALT+C to lower target height or ALT+Space to raise target height.|
+
 
 [Return to Table of Contents](#table-of-contents)
 
