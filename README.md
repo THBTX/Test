@@ -67,7 +67,7 @@ Vertical speed indicator |   |
 ##### DISCLAIMER: We do not accept any responsibility for incorrect use of the autopilot, which may result in fiery reentry, mountain impacts or undesired entrance into PvP. Read and heed the warnings below!
 
 ##### :warning: Auto-Land - Use with supervision. Will only engage if brakes > mass. Uses brakes and hovers / vertical engines to lower you to a safe landing. 
-##### :warning: Autopilot - Not suitable for trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
+##### :warning: Autopilot - Not suitable for interplanetay trips less than 2SU. Ensure you have LOS (line of sight) to the target body before engaging as autopilot is direct flight and does not detect bodies (will fly into a planet / body if in between starting position and destination).
 ##### :warning: Autopilot to Saved Location - Accurate within roughly 15m of saved and selected location assuming a brake landing is available. If Coast Landing is displayed, you will need to resume control upon arrival at your destination.
 ##### :warning: Auto-Rentry - Not suitable for bodies without atmosphere. Not suitable for bodies with high altitudes (Thades, etc.). Know the altitude of the surface before using. __Alt-Space__ and/or __Alt-C__ may be used to adjust hover altitude as needed.
 
@@ -96,7 +96,7 @@ Vertical speed indicator |   |
 | --- | --- | --- |
 |UI Overlay|Hold __SHIFT__|Displays the UI overlay with mouseover buttons. Mouse over a button and let go of SHIFT to select it.|
 |Toggle autopilot targets |Hold __SHIFT__, press __R__ or __T__ (speedup/speeddown)|Cycles through between autopilot targets.|
-|Save Location|Selecting the __Save Position__ mouseover| Will save the current location in the databank (if installed). This location may be selected by the autopilot option to automatically fly to the destination.  It will _not_ monitor for impeeding structures or ships. Monitor during use.|
+|Save Location|Hold __SHIFT__ then selecting the __Save Position__ mouseover| Will save the current location in the databank (if installed). This location may be selected by the autopilot option to automatically fly to the destination.  It will _not_ monitor for impeeding structures or ships. Monitor during use.|
 |Free Look|ALT|Toggles free-look. Please note that your view does not auto center when exiting Free Look.  Free Look must be enabled to zoom in 3rd person mode.|
 |Autopilot Destination / Destination Select|__Option 1__ and __Option 2__, <br/>__ALT-1__ and __ALT-2__ or <br/>__SHIFT-R__ and __SHIFT-T__)|Cycles through autopilot destinations (planets / bodies / saved waypoints).|
 |Toggle HUD|__Option 3__, or __ALT-3__|Toggles the primary hud display HUD on/off.|
